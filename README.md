@@ -6,7 +6,7 @@
 
 Tou can connect with me on
 ------------------------------------
-[Twitter](https://twitter.com/Aanchalmishra__), [Linkedin](https://www.linkedin.com/in/mishra-aanchal/) and [Gmail](aanchalkviit@gmail.com)
+[Twitter](https://twitter.com/Aanchalmishra__), [Linkedin](https://www.linkedin.com/in/mishra-aanchal/) and [Gmail](mailto:aanchalkviit@gmail.com)
 
 I'm passionate about
 -------------------
