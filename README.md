@@ -15,7 +15,7 @@ I'm passionate about
 My top Technologies
 ---------------
 
-![](https://img.shields.io/badge/python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/-GCP-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     
+![](https://img.shields.io/badge/python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/C++-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/-GCP-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     
 
 
 
