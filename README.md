@@ -5,10 +5,8 @@
 <h3 align="center"> Tech💻, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
 
 - - -
+<p align="center">I'm Aanchal Mishra, Student Community Intern at <a href="https://www.postman.com/">Postman</a> 👩‍🚀, <a href="https://studentambassadors.microsoft.com/en-US/profile">Gold Microsoft Learn Student Ambassador</a>💛, <a href="https://www.meetup.com/tfugmumbai/members/?op=leaders"> Co-Organizer, TensorFlow User Group Mumbai</a>, <a href="https://www.girlscript.tech/home"> Chapter Lead, Girslcript Mumbai</a>
 
-
-*I'm Aanchal Mishra, a pre-final year student at SNDTWU, Mumbai pursuing B.Tech. Communities have a special place in my heart! I deliver tech talks, co-organize community events, network with like-minded people and volunteer active community events, technical workshops, study jams to encourage tech enthusiasts,hence enriching Diversity and Inclusion in this field.*
-*Studying electronics and being a good programmer, who even teaches programming has taught me to be multitasking, as knowing a bit of hardware and a bit of software is extremely useful and gives me confidence to handle complex things smoothly.*
 
 You can connect with me on
 ------------------------------------
