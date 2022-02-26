@@ -22,15 +22,3 @@ You can connect with me on
 [![Gmail Badge](https://img.shields.io/badge/aanchalkviit@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aanchalkviit@gmail.com)](mailto:aanchalkviit@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@aanchalwrites-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aanchalwtites/)](https://medium.com/@aanchalwrites)
 [![Polywork Badge](https://img.shields.io/badge/-aanchalmishra_-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/aanchalmishra_)](https://www.polywork.com/aanchalmishra_)
-
-I'm passionate about
--------------------
-:small_blue_diamond: Machine Learning   :small_blue_diamond: Front End Development    :small_blue_diamond: Astronautics
-
-My top Technologies
----------------
-
-![](https://img.shields.io/badge/python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/C++-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/-GCP-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)     
-
-
-
