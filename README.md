@@ -6,10 +6,19 @@
 
 -------
 
-You can connect with me on
-------------------------------------
+<p align='center'>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Aanchal_Mishra-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishra-aanchal/)](https://www.linkedin.com/in/mishra-aanchal/)
 [![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)
+[![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)  
+  <a href="https://www.linkedin.com/in/mishra-aanchal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/iaanchalmishra">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 [![Gmail Badge](https://img.shields.io/badge/aanchalkviit@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aanchalkviit@gmail.com)](mailto:aanchalkviit@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@aanchalwrites-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aanchalwtites/)](https://medium.com/@aanchalwrites)
 [![Polywork Badge](https://img.shields.io/badge/-aanchalmishra_-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/aanchalmishra_)](https://www.polywork.com/aanchalmishra_)
