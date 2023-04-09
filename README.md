@@ -1,4 +1,3 @@
-![Aanchal](https://pbs.twimg.com/profile_banners/1165172465712209920/1614957335/1500x500)
  - - -
 </p>
 <h2 align="center"> Hey, I am Aanchal Mishra (She/her)👋 </h2>
