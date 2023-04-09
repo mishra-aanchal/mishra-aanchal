@@ -8,26 +8,22 @@
 
 <p align='center'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aanchal_Mishra-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mishra-aanchal/)](https://www.linkedin.com/in/mishra-aanchal/)
-[![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)
-[![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)  
   <a href="https://www.linkedin.com/in/mishra-aanchal/">
-    <img src="https://img.shields.io/badge/linkedin-%00BFFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/iaanchalmishra">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://twitter.com/@Aanchalmishra__">
-    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+ <a href="https://twitter.com/Aanchalmishra__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-</p>
-[![Gmail Badge](https://img.shields.io/badge/aanchalkviit@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aanchalkviit@gmail.com)](mailto:aanchalkviit@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-@aanchalwrites-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aanchalwtites/)](https://medium.com/@aanchalwrites)
-[![Polywork Badge](https://img.shields.io/badge/-aanchalmishra_-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/aanchalmishra_)](https://www.polywork.com/aanchalmishra_)
+ <a href="https://twitter.com/aanchalmishra__">
+    <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ 
 
 - - -
-<p align="center">I'm Aanchal Mishra, Student Community Intern at <a href="https://www.postman.com/">Postman</a> 👩‍🚀, <a href="https://studentambassadors.microsoft.com/en-US/profile">Gold Microsoft Learn Student Ambassador</a>💛, Co-Organizer <a href="https://www.meetup.com/tfugmumbai/members/?op=leaders">TensorFlow User Group Mumbai</a>🦾, <a href="https://angelhack.com/">Angel Hack<a/> Ambassador👩‍💻, Chapter Lead, <a href="https://www.girlscript.tech/home">Girslcript Mumbai🤝, </a> Previously an Instrcutor at <a href="https://campk12.com/"> CampK12</a>👩‍🏫 , Google Ads Top Marketer'20 🏆
+<p align="center">I'm Aanchal Mishra, Developer Advocate, Student Programs at <a href="https://www.postman.com/">Postman</a> 👩‍🚀, <a href="https://studentambassadors.microsoft.com/en-US/profile">Gold Microsoft Learn Student Ambassador</a>💛, Co-Organizer <a href="https://www.meetup.com/tfugmumbai/members/?op=leaders">TensorFlow User Group Mumbai</a>🦾, <a href="https://angelhack.com/">Angel Hack<a/> Ambassador👩‍💻, Chapter Lead, <a href="https://www.girlscript.tech/home">Girslcript Mumbai🤝, </a> Previously an Instrcutor at <a href="https://campk12.com/"> CampK12</a>👩‍🏫 , Google Ads Top Marketer'20 🏆
  
  - - - 
 <p>Communities have a very special place in my heart and with a passion for helping communities, I love helping and creating opportunities for student developers.💖</p> 
