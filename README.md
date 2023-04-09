@@ -1,6 +1,6 @@
  - - -
 </p>
-<h2 align="center"> Hey, I am Aanchal Mishra (She/her)👋 </h2>
+<h2 align="center"> Hey There 👋 I am Aanchal Mishra 👩‍💻 </h2>
 <h3 align="center"> Tech💻, Communities👨‍👩‍👧‍👦 and Hackathons👩‍💻 </h3>
 
 -------
