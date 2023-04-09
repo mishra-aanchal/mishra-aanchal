@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)
 [![Twitter Badge](https://img.shields.io/badge/-Aanchalmishra__-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aanchalmishra__/)](https://twitter.com/Aanchalmishra__/)  
   <a href="https://www.linkedin.com/in/mishra-aanchal/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%00BFFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/iaanchalmishra">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
