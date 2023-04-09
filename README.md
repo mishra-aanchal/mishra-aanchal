@@ -17,6 +17,9 @@
   <a href="https://instagram.com/iaanchalmishra">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+ <a href="https://twitter.com/@Aanchalmishra__">
+    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 </p>
 [![Gmail Badge](https://img.shields.io/badge/aanchalkviit@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:aanchalkviit@gmail.com)](mailto:aanchalkviit@gmail.com)
